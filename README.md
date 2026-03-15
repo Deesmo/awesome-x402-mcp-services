@@ -2,9 +2,12 @@
 
 Curated list of awesome commercial services that require x402 payments and use MCP. No accounts required. Payments via x402 for MCP tools.
 
-Table of Contents
+### Table of Contents
 
 - [Search](#search)
+
+### Helpful Links
+
 - [x402/MCP Developers](#developers)
 
 ## Services
